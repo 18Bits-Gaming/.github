@@ -55,36 +55,14 @@
 
 ## ⚙️ Tech Stack
 
-Based on our web and 3D game portfolio:
-
-### Languages
+### Language
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Engines & Frameworks
+### Engine
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
-### Tools & Infrastructure
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Tools
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FF69B4?style=flat-square&logo=aseprite&logoColor=white)
-![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18Bits-Gaming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="18bits Gaming Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Bits-Gaming&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18Bits-Gaming&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="180">
-</p>
 
 ---
 
