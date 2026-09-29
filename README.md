@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/18bits-Gaming-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white" alt="18bits Gaming">
-  <img src="https://img.shields.io/github/followers/18bits-gaming?label=Followers&style=for-the-badge&logo=github&color=8A2BE2" alt="Followers">
-  <img src="https://img.shields.io/github/stars/18bits-gaming?label=Stars&style=for-the-badge&logo=github&color=8A2BE2" alt="Stars">
-  <img src="https://img.shields.io/github/license/18bits-gaming/.github?style=for-the-badge&color=8A2BE2" alt="License">
+  <img src="https://img.shields.io/github/followers/18Bits-Gaming?label=Followers&style=for-the-badge&logo=github&color=8A2BE2" alt="Followers">
+  <img src="https://img.shields.io/github/stars/18Bits-Gaming?label=Stars&style=for-the-badge&logo=github&color=8A2BE2" alt="Stars">
+  <img src="https://img.shields.io/github/license/18Bits-Gaming/.github?style=for-the-badge&color=8A2BE2" alt="License">
 </p>
 
 <p align="center">
@@ -15,66 +15,75 @@
 
 ## 🎮 About Us
 
-**18bits Gaming** is an independent game development studio focused on creating unique, memorable gaming experiences. We believe that great games come from passion, creativity, and attention to detail—whether it's a single pixel or an entire world.
+**18bits Gaming** is a dedicated indie game company crafting original and immersive experiences for players who value creativity. We focus on developing unique games that reflect the passion and artistry of indie gaming.
 
 ### Our Mission
-> To craft games that inspire, challenge, and bring people together through the power of interactive storytelling and innovative gameplay.
+> To develop innovative and engaging indie games that enhance the gaming experience for players worldwide. We strive to push the boundaries of creativity and deliver high-quality entertainment that captivates and inspires.
 
 ### What We Do
 - 🎯 **Original IP Development** — Creating new worlds and franchises from the ground up
-- 🔧 **Game Engine Tools** — Building open-source tools and frameworks for developers
-- 🤝 **Community-Driven** — Engaging with players early and often through open development
-- 📚 **Knowledge Sharing** — Publishing postmortems, tutorials, and technical deep-dives
+- 🎮 **Multi-Platform Games** — 3D puzzles, action, sports, and adventure games
+- 🤝 **Community-Driven** — Engaging with players through itch.io, game jams, and social media
+- 📚 **Knowledge Sharing** — Publishing devlogs and insights on our [blog](https://18bitsgaming.com/news/)
 
 ---
 
 ## 🎲 Games & Projects
 
-| Game | Status | Engine | Platforms | Description |
-|------|--------|--------|-----------|-------------|
-| **[Project Aurora](https://github.com/18bits-gaming/project-aurora)** | 🚧 In Development | Godot 4 | PC, Console | Atmospheric sci-fi exploration with procedural narratives |
-| **[Pixel Forge](https://github.com/18bits-gaming/pixel-forge)** | ✅ Released | Unity | Web, Mobile | Retro-style puzzle platformer with level editor |
-| **[Nebula Rift](https://github.com/18bits-gaming/nebula-rift)** | 🧪 Prototype | Unreal Engine 5 | PC | Multiplayer space combat with Newtonian physics |
-| **[BitCraft Engine](https://github.com/18bits-gaming/bitcraft-engine)** | 🔧 Active | Custom (C++) | Cross-platform | Lightweight 2D game engine for pixel art games |
+### 🌐 Released on itch.io
 
-> 💡 **Want to contribute?** Check out our [Contributing Guide](CONTRIBUTING.md) and browse [Good First Issues](https://github.com/orgs/18bits-gaming/projects?query=good%20first%20issue) across our repositories.
+| Game | Genre | Platform | Link |
+|------|-------|----------|------|
+| **Ball Boy** | Sports | Browser | [Play on itch.io](https://18bitsgaming.itch.io/ball-boy) |
+| **The Great Quest** | Adventure | Browser | [Play on itch.io](https://18bitsgaming.itch.io/the-great-quest) |
+| **The Last Passage** | Action | Browser | [Play on itch.io](https://18bitsgaming.itch.io/the-last-passage) |
+| **Don't Drop** | Puzzle | Browser | [Play on itch.io](https://18bitsgaming.itch.io/dont-drop) |
+| **Freaky Friday Party** | Puzzle | Browser | [Play on itch.io](https://18bitsgaming.itch.io/freaky-friday-party) |
+| **Room Defender** | Action | Browser | [Play on itch.io](https://18bitsgaming.itch.io/roomdefender) |
+| **Jack's Map Out** | Puzzle | Browser | [Play on itch.io](https://18bitsgaming.itch.io/jacks-map-out) |
+
+### 🚀 Upcoming / Featured on Website
+
+| Game | Status | Genre | Platforms | Link |
+|------|--------|-------|-----------|------|
+| **Mapped Out** | ✅ Released | 3D Puzzle | PC | [View on Website](https://18bitsgaming.com/games/mapped-out/) |
+| **Ball Boy** | 🚧 Coming Soon | 3D Sports/Puzzle | PC, Mobile | [View on Website](https://18bitsgaming.com/games/ball-boy-coming-soon/) |
+
+> 💡 **Play our games** on [itch.io](https://18bitsgaming.itch.io) or visit our [Games page](https://18bitsgaming.com/games/) for more info!
 
 ---
 
 ## ⚙️ Tech Stack
 
+Based on our web and 3D game portfolio:
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Engines & Frameworks
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-![MonoGame](https://img.shields.io/badge/MonoGame-34538B?style=flat-square&logo=monogame&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ### Tools & Infrastructure
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FF69B4?style=flat-square&logo=aseprite&logoColor=white)
-![FMOD](https://img.shields.io/badge/FMOD-000000?style=flat-square&logo=fmod&logoColor=white)
+![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18bits-gaming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="18bits Gaming Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18bits-gaming&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=18Bits-Gaming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="18bits Gaming Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Bits-Gaming&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18bits-gaming&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18Bits-Gaming&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="180">
 </p>
 
 ---
@@ -82,11 +91,11 @@
 ## 🌐 Connect With Us
 
 <p align="center">
-  <a href="https://18bits.games"><img src="https://img.shields.io/badge/Website-18bits.games-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"></a>
-  <a href="https://discord.gg/18bitsgaming"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/18bitsGaming"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://youtube.com/@18bitsGaming"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://itch.io/c/18bits-gaming"><img src="https://img.shields.io/badge/itch.io-Play%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"></a>
+  <a href="https://18bitsgaming.com"><img src="https://img.shields.io/badge/Website-18bitsgaming.com-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"></a>
+  <a href="https://18bitsgaming.itch.io"><img src="https://img.shields.io/badge/itch.io-Play%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"></a>
+  <a href="https://x.com/18bitsgaming"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://www.instagram.com/18bitsgaming"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:hi@18bitsgaming.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -95,25 +104,26 @@
 
 We believe in giving back to the game dev community. Here's how you can get involved:
 
-- 🐛 **Report Bugs** — Found an issue? [Open a ticket](https://github.com/orgs/18bits-gaming/projects) in the relevant repo
-- 💡 **Request Features** — Have an idea? We'd love to hear it
-- 🔧 **Submit PRs** — Code contributions welcome! See our [Contributing Guide](CONTRIBUTING.md)
-- 📖 **Read Our Devlogs** — Technical articles and postmortems on [our blog](https://18bits.games/blog)
+- 🐛 **Report Bugs** — Found an issue in our games? Let us know on [itch.io](https://18bitsgaming.itch.io)
+- 💡 **Request Features** — Have an idea? Reach out via [email](mailto:hi@18bitsgaming.com) or social media
+- 🎮 **Game Jams** — We regularly participate in community game jams (The Great Quest was a Community Game Jam entry!)
+- 📖 **Read Our Devlogs** — Technical articles and postmortems on [our blog](https://18bitsgaming.com/news/)
 
-### Featured Open Source Projects
-- **[bitcraft-engine](https://github.com/18bits-gaming/bitcraft-engine)** — Our lightweight 2D game engine (MIT License)
-- **[godot-pixel-perfect](https://github.com/18bits-gaming/godot-pixel-perfect)** — Pixel-perfect rendering addon for Godot 4
-- **[dialogue-system](https://github.com/18bits-gaming/dialogue-system)** — Node-based dialogue editor for Unity & Godot
-- **[proc-gen-toolkit](https://github.com/18bits-gaming/proc-gen-toolkit)** — Procedural generation utilities for game worlds
+### Supported Creators
+We support fellow indie developers by featuring games we love:
+- [Golf Peaks](https://afterburn.itch.io/golf-peaks) — Golf + cards + puzzles
+- [MidBoss](https://eniko.itch.io/midboss) — Possession-based roguelike
+- [Kawaii Game Icons](https://roboxel.itch.io/kawaii-game-icons) — 50 Kawaii Icons
+- [LYNE](https://thomasbowker.itch.io/lyne) — Minimalist puzzle game
 
 ---
 
 ## 📄 License
 
-This organization's profile and open-source projects are licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This organization's profile is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details. Individual games may have their own licenses.
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by the 18bits Gaming team · <a href="https://18bits.games">18bits.games</a></sub>
+  <sub>Made with ❤️ by the 18bits Gaming team · <a href="https://18bitsgaming.com">18bitsgaming.com</a> · <a href="mailto:hi@18bitsgaming.com">hi@18bitsgaming.com</a></sub>
 </p>
